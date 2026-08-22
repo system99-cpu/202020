@@ -47,7 +47,7 @@ The Mac version is currently available in Chinese. An internationalized version 
 
 ### Android
 
-**Latest version: 1.0.7**
+**Latest version: 1.0.9**
 
 [Download 202020 for Android](../../releases/latest)
 
