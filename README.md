@@ -1,9 +1,12 @@
 # 202020
 
-### A gentle eye-break timer based on the 20-20-20 rule.
+### A gentle eye-break timer based on the 20-20-20 rule.To help you build healthier screen-time and time-management habits.
 
 > **Your eyes work hard.  
 > Give them a little love.**
+
+> **Build better habits.
+> Build a better life.**
 
 ## What is 202020?
 
@@ -23,6 +26,8 @@ Every 20 minutes, look at something about 20 feet (6 meters) away for 20 seconds
 
 ## Features
 
+### Eyes care
+
 - Based on the 20-20-20 rule
 - Automatic eye-rest intervals
 - A dedicated rest period that helps you step away from the screen
@@ -31,6 +36,14 @@ Every 20 minutes, look at something about 20 feet (6 meters) away for 20 seconds
 - Simple and distraction-free
 - Gentle language and interaction
 - Lightweight and easy to use
+  
+### Focus & Time Habits
+
+- Pomodoro mode for focused work and scheduled breaks
+- Flexible timing to support different work and rest routines
+- Voice and system sound reminders
+- Designed to help build better time-management habits
+
 
 ## Available Platforms
 
@@ -47,11 +60,10 @@ The Mac version is currently available in Chinese. An internationalized version 
 
 ### Android
 
-**Latest version: 1.0.9**
+**Latest version: 1.1.0**
 
 [Download 202020 for Android](../../releases/latest)
 
-> Android version 1.0.7 (version code 8)
 
 ## Feedback
 
@@ -68,3 +80,5 @@ You can also open an [Issue](../../issues).
 **202020**
 
 *Rest your eyes. Give them a little love.*
+
+*Build better habits. Build a better life.*
