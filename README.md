@@ -1,49 +1,49 @@
 # 202020
 
-### A gentle eye-break timer based on the 20-20-20 rule.To help you build healthier screen-time and time-management habits.
+> Focus, Rest, Repeat.
 
-> **Your eyes work hard.  
-> Give them a little love.**
+A simple timer for healthier rhythms of focused work and rest.
 
-> **Build better habits.
-> Build a better life.**
+202020 combines two modes:
 
-## What is 202020?
-
-202020 is a simple eye-break timer designed for people who spend long hours looking at screens.
-
-Based on the 20-20-20 rule, it reminds you to take regular breaks and give your eyes a little rest.
-
-202020 is intentionally simple. It does not try to become another productivity app. Its purpose is simply to help you step away from the screen when it is time to rest.
+- 👁️ **Eye Care Mode** — based on the 20-20-20 rule
+- 🍅 **Pomodoro Mode** — for focused work and study
 
 ## Why 202020?
 
-The 20-20-20 rule is a simple reminder for people who spend a lot of time looking at screens:
+Rest your eyes. Give them a little love.
 
-Every 20 minutes, look at something about 20 feet (6 meters) away for 20 seconds.
+202020 started as a simple eye-care timer based on the 20-20-20 rule.
 
-202020 turns this simple idea into a gentle, automatic reminder — helping you build regular moments of rest into your screen time.
+It has since grown into a simple tool for building healthier rhythms of
+focused work, rest, and movement.
 
-## Features
+## Eye Care Mode
 
-### Eyes care
+Based on the 20-20-20 rule, 202020 reminds you to take regular breaks
+from the screen.
 
-- Based on the 20-20-20 rule
-- Automatic eye-rest intervals
-- A dedicated rest period that helps you step away from the screen
-- Call protection — on standard Android devices, the rest timer pauses during phone calls and resumes afterward
-- Navigation protection — on standard Android devices, the rest timer pauses during active navigation and resumes afterward
-- Simple and distraction-free
-- Gentle language and interaction
-- Lightweight and easy to use
-  
-### Focus & Time Habits
+You can configure:
 
-- Pomodoro mode for focused work and scheduled breaks
-- Flexible timing to support different work and rest routines
-- Voice and system sound reminders
-- Designed to help build better time-management habits
+- Usage duration
+- Short rest duration
+- Optional longer breaks after multiple cycles
+- Reminder sounds
 
+Longer breaks encourage you to step away from the screen, change your posture, and move around.
+
+## Pomodoro Mode
+
+A configurable focus timer for work or study.
+
+You can customize:
+
+- Focus duration
+- Short rest duration
+- Longer breaks after multiple cycles
+- Reminder sounds
+
+Eye Care Mode and Pomodoro Mode have independent settings and cycle counts.
 
 ## Available Platforms
 
@@ -64,6 +64,13 @@ The Mac version is currently available in Chinese. An internationalized version 
 
 [Download 202020 for Android](../../releases/latest)
 
+## What's new in v1.5.0
+
+- Long breaks are now available in Eye Care Mode.
+- Custom reminder sounds can play continuously for the selected duration.
+- Improved UI and interaction experience.
+- Improved first-launch and permission experience.
+- Direct upgrade from previous Android versions without uninstalling.
 
 ## Feedback
 
