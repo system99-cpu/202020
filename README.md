@@ -60,17 +60,23 @@ The Mac version is currently available in Chinese. An internationalized version 
 
 ### Android
 
-**Latest version: 1.5.1**
+**Latest version: 1.7.0_Beta**
 
 [Download 202020 for Android](../../releases/latest)
 
-## What's new in v1.5.0
+## What's new in v1.7.0_Beta
 
-- Long breaks are now available in Eye Care Mode.
-- Custom reminder sounds can play continuously for the selected duration.
-- Improved UI and interaction experience.
-- Improved first-launch and permission experience.
-- Direct upgrade from previous Android versions without uninstalling.
+- **First-launch setup guide**  
+  New users are guided through all required permissions step by step.
+
+- **Guide Center**  
+  A new entry point in Settings lets you re-run the setup guide at any time and check the current system configuration status.
+
+- **System setup check**  
+  The app now only prompts you when it detects system settings that may prevent forced breaks from working correctly.
+
+- **Return to previous app after a break**  
+  After a break ends, the app tries to return you to the app you were using before the break, instead of leaving you on the 202020 screen.
 
 ## Feedback
 
