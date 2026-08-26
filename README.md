@@ -4,6 +4,8 @@
 
 A simple timer for healthier rhythms of focused work and rest.
 
+Designed for anyone who spends long periods with digital screens — students, professionals, and families.
+
 202020 combines two modes:
 
 - 👁️ **Eye Care Mode** — based on the 20-20-20 rule
