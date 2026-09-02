@@ -1,36 +1,36 @@
 # 202020
 
-> Focus, Rest, Repeat.
+> **Focus, Rest, Repeat.**
 
 A simple timer for healthier rhythms of focused work and rest.
 
-Designed for anyone who spends long periods with digital screens — students, professionals, and families.
-
 202020 combines two modes:
 
-- 👁️ **Eye Care Mode** — based on the 20-20-20 rule
-- 🍅 **Pomodoro Mode** — for focused work and study
+* 👁️ **Eye Care Mode** — based on the 20-20-20 rule
+* 🍅 **Pomodoro Mode** — for focused work and study
 
 ## Why 202020?
 
-Rest your eyes. Give them a little love.
+**Your eyes work hard. Give them a little love.**
 
 202020 started as a simple eye-care timer based on the 20-20-20 rule.
 
-It has since grown into a simple tool for building healthier rhythms of
-focused work, rest, and movement.
+It has since grown into a simple tool for building healthier rhythms of focused work, rest, and movement.
+
+The goal is simple:
+
+**Help you focus when it's time to work, and remind you to rest when it's time to pause.**
 
 ## Eye Care Mode
 
-Based on the 20-20-20 rule, 202020 reminds you to take regular breaks
-from the screen.
+Based on the 20-20-20 rule, 202020 reminds you to take regular breaks from the screen.
 
 You can configure:
 
-- Usage duration
-- Short rest duration
-- Optional longer breaks after multiple cycles
-- Reminder sounds
+* Usage duration
+* Short rest duration
+* Optional longer breaks after multiple cycles
+* Reminder sounds
 
 Longer breaks encourage you to step away from the screen, change your posture, and move around.
 
@@ -40,10 +40,10 @@ A configurable focus timer for work or study.
 
 You can customize:
 
-- Focus duration
-- Short rest duration
-- Longer breaks after multiple cycles
-- Reminder sounds
+* Focus duration
+* Short rest duration
+* Longer breaks after multiple cycles
+* Reminder sounds
 
 Eye Care Mode and Pomodoro Mode have independent settings and cycle counts.
 
@@ -51,8 +51,8 @@ Eye Care Mode and Pomodoro Mode have independent settings and cycle counts.
 
 ### Android — Available
 
-- English
-- Chinese
+* English
+* Chinese
 
 ### Mac — Coming Later
 
@@ -62,23 +62,23 @@ The Mac version is currently available in Chinese. An internationalized version 
 
 ### Android
 
-**Latest version: 1.7.0_Beta**
+**Latest version: 1.7.6**
 
-[Download 202020 for Android](../../releases/latest)
+[Download 202020 for Android](#)
 
-## What's new in v1.7.0_Beta
+## What's new in v1.7.6
 
-- **First-launch setup guide**  
-  New users are guided through all required permissions step by step.
+* Continued improvements to stability and reliability
+* Further refinement of timer and break behavior
+* Improvements to background operation and notifications
+* UI and usability refinements
+* Bug fixes and general improvements
 
-- **Guide Center**  
-  A new entry point in Settings lets you re-run the setup guide at any time and check the current system configuration status.
+After multiple rounds of development and testing, v1.7.6 is now at a stage where I feel comfortable using it in everyday life.
 
-- **System setup check**  
-  The app now only prompts you when it detects system settings that may prevent forced breaks from working correctly.
+I'm now looking for real-world feedback from Android users, especially across different devices and usage environments.
 
-- **Return to previous app after a break**  
-  After a break ends, the app tries to return you to the app you were using before the break, instead of leaving you on the 202020 screen.
+You don't need to be a technical tester. Simply using 202020 normally and sharing what works, what doesn't, or what could be better is valuable.
 
 ## Feedback
 
@@ -86,9 +86,13 @@ The Mac version is currently available in Chinese. An internationalized version 
 
 If you find a bug, have a suggestion, or simply want to share your experience, we'd love to hear from you.
 
-Email: systg_99@163.com
+You can open an [Issue](#) on GitHub or share your experience with the project.
 
-You can also open an [Issue](../../issues).
+## About
+
+A gentle eye-break timer based on the 20-20-20 rule — intentional breaks, gentle reminders, healthier screen time.
+
+Mac & Android; English & Chinese on Android.
 
 ---
 
@@ -97,3 +101,4 @@ You can also open an [Issue](../../issues).
 *Rest your eyes. Give them a little love.*
 
 *Build better habits. Build a better life.*
+
