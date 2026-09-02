@@ -64,7 +64,7 @@ The Mac version is currently available in Chinese. An internationalized version 
 
 **Latest version: 1.7.6**
 
-[Download 202020 for Android](#)
+[Download 202020 for Android](https://github.com/system99-cpu/202020/releases/latest)
 
 ## What's new in v1.7.6
 
