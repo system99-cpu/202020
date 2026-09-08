@@ -54,9 +54,10 @@ Eye Care Mode and Pomodoro Mode have independent settings and cycle counts.
 * English
 * Chinese
 
-### Mac — Coming Later
+### Mac — Available
 
-The Mac version is currently available in Chinese. An internationalized version will be released in a future update.
+* English
+* Chinese
 
 ## Download
 
@@ -65,6 +66,12 @@ The Mac version is currently available in Chinese. An internationalized version 
 **Latest version: 1.7.6**
 
 [Download 202020 for Android](https://github.com/system99-cpu/202020/releases/latest)
+
+### MacOS
+
+**Latest version: 1.1**
+
+[Download 202020 for macOS](https://github.com/system99-cpu/202020/releases/tag/macos-v1.1)
 
 ## What's new in v1.7.6
 
