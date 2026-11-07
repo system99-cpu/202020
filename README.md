@@ -65,7 +65,7 @@ Eye Care Mode and Pomodoro Mode have independent settings and cycle counts.
 
 **Latest version: 1.7.6**
 
-[Download 202020 for Android](https://github.com/system99-cpu/202020/releases/latest)
+[Download 202020 for Android](https://github.com/system99-cpu/202020/releases#release-V1.7.6)
 
 ### MacOS
 
