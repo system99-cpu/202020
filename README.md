@@ -63,25 +63,27 @@ Eye Care Mode and Pomodoro Mode have independent settings and cycle counts.
 
 ### Android
 
-**Latest version: 1.7.6**
+**Latest version: **1.7.10** (build 36)**
 
-[Download 202020 for Android](https://github.com/system99-cpu/202020/releases#release-V1.7.6)
+[Download 202020 for Android](https://github.com/system99-cpu/202020/releases/latest)
 
 ### MacOS
 
-**Latest version: 1.1**
+**Latest version: **3.2.2****
 
-[Download 202020 for macOS](https://github.com/system99-cpu/202020/releases/tag/macos-v1.1)
+[Download 202020 for macOS](https://github.com/system99-cpu/202020/releases)
 
-## What's new in v1.7.6
+## What's new in v1.7.10
 
-* Continued improvements to stability and reliability
-* Further refinement of timer and break behavior
-* Improvements to background operation and notifications
-* UI and usability refinements
-* Bug fixes and general improvements
+- **Global reminder volume control** — Adjust the volume of all reminder sounds with one shared slider, independently of each reminder's enablement and sound settings. 100% means no additional attenuation — it does not mean the system's maximum volume.
+- **Longer custom music playback** — Local custom reminder music can now be configured for up to 3 minutes, with new duration options of 30 seconds, 1 minute, 2 minutes, and 3 minutes. Existing shorter options remain available.
+- **Automatic sound stop on rest completion** — Reminder music stops when you tap the waiting screen to finish a rest period and resume work.
+- **Floating ball orientation fix** — Improved floating ball behavior when switching between portrait and landscape orientations.
+- **Small-screen layout improvements** — Fixed layout overflow issues in the first-launch guide, Guide Center, and quick menu on narrow screens.
 
-After multiple rounds of development and testing, v1.7.6 is now at a stage where I feel comfortable using it in everyday life.
+> Automatic meeting-scene protection is currently available on macOS only. It is not yet supported on Android.
+
+After multiple rounds of development and testing, v1.7.10 is now at a stage where I feel comfortable using it in everyday life.
 
 I'm now looking for real-world feedback from Android users, especially across different devices and usage environments.
 
