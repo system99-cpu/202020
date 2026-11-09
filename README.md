@@ -71,7 +71,7 @@ Eye Care Mode and Pomodoro Mode have independent settings and cycle counts.
 
 **Latest version: **3.2.2****
 
-[Download 202020 for macOS](https://github.com/system99-cpu/202020/releases)
+[Download 202020 for macOS](https://github.com/system99-cpu/202020/releases#release-macos-v1.1)
 
 ## What's new in v1.7.10
 
